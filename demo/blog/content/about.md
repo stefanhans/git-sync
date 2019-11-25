@@ -6,7 +6,7 @@ title = "about"
 
 ## A headline
 
-Some content about the blog.
+Some content about the blog changed.
 
 
 [![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/git-sync/demo/blog/content/about.md?pixel)]()
